@@ -1,0 +1,1 @@
+# postgresql-6vi
